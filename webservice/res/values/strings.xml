@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">webservice</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="numberid_prompt">NumberID</string>
+    <string name="establishment_prompt">"Establishment "</string>
+    <string name="establishmenttype_prompt">Establishment Type</string>
+    <string name="location_prompt">Location Area</string>
+    <string name="servedfood_prompt">Served Food</string>
+    <string name="email_prompt">Email</string>
+    <string name="create_command_prompt">Create</string>
+
+</resources>
